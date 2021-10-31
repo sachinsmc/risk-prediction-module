@@ -1,0 +1,12 @@
+syntax = "proto3";
+package sachinsmc.riskpredictionmodule.riskpredictionmodule;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/sachinsmc/risk-prediction-module/x/riskpredictionmodule/types";
+
+// GenesisState defines the riskpredictionmodule module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+    // this line is used by starport scaffolding # ibc/genesis/proto
+}
